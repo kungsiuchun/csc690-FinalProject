@@ -1,13 +1,18 @@
 # csc690-FinalProject
 
-csc690-FinalProject is an application for iOS.
-
+* TravalApp is an application for iOS.
+* It gives user recommended top travel spots in town.
+* This app is using the [FourSqaure API](https://developer.foursquare.com).
 
 ## User Stories
 
-The following **must-have** functionality:
+The following **must-have** functionalities:
 
-* [ ] 
+* [ ] User can view the top recommendation places in town on the tableview list. 
+* [ ] User can view the top recommendation places in town on the mapview. 
+* [ ] User can view each spot location address on the detailview. 
+* [ ] User can view each spot photo on the detailview. 
+* [ ] User can view each spot tips on the detailview. 
 
 The following **Nice-to-have** features:
 * [ ] 
@@ -19,6 +24,7 @@ The following **Nice-to-have** features:
 ## Basic wire-frames
 
 
+<a href="https://imgur.com/uFVWhNy"><img src="https://i.imgur.com/uFVWhNy.png" title="source: imgur.com" /></a>
 
 
 ## License
