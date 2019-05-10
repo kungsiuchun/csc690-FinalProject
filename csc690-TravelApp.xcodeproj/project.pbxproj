@@ -126,6 +126,25 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		59050AFE228526CE00D31E37 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				59050AF22285219A00D31E37 /* Spot.swift */,
+				59050AF52285219A00D31E37 /* FourSquareAPI.swift */,
+				59050AF42285219A00D31E37 /* WeatherService.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		59050AFF2285273000D31E37 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				59050AF02285219A00D31E37 /* SpotCell.swift */,
+				59050AFC228521C600D31E37 /* City.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		59CF57D1227B78E000D0050F = {
 			isa = PBXGroup;
 			children = (
@@ -151,13 +170,10 @@
 		59CF57DC227B78E000D0050F /* csc690-TravelApp */ = {
 			isa = PBXGroup;
 			children = (
-				59050AFC228521C600D31E37 /* City.swift */,
+				59050AFF2285273000D31E37 /* Model */,
+				59050AFE228526CE00D31E37 /* API */,
 				59050AF32285219A00D31E37 /* DetailViewController.swift */,
-				59050AF52285219A00D31E37 /* FourSquareAPI.swift */,
 				59050AF12285219A00D31E37 /* MapViewController.swift */,
-				59050AF22285219A00D31E37 /* Spot.swift */,
-				59050AF02285219A00D31E37 /* SpotCell.swift */,
-				59050AF42285219A00D31E37 /* WeatherService.swift */,
 				59CF57DD227B78E000D0050F /* AppDelegate.swift */,
 				59CF57DF227B78E000D0050F /* HomeViewController.swift */,
 				59050AEE2285217100D31E37 /* Main.storyboard */,

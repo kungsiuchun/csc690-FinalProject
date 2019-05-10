@@ -278,7 +278,7 @@
         <scene sceneID="SyI-Nq-SFB">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="qpN-cj-cDF" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Home" image="feed_tab" selectedImage="home" id="NRA-qU-WTL"/>
+                    <tabBarItem key="tabBarItem" title="Home" image="home" selectedImage="home" id="NRA-qU-WTL"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="uyP-3m-pby">
                         <rect key="frame" x="0.0" y="44" width="375" height="44"/>
@@ -315,7 +315,6 @@
     </scenes>
     <resources>
         <image name="Icon-29" width="29" height="29"/>
-        <image name="feed_tab" width="25" height="25"/>
         <image name="home" width="25" height="25"/>
         <image name="location" width="24" height="24"/>
     </resources>
