@@ -36,7 +36,10 @@ Then open csc690-TravelApp.xcworkspace
 ## Basic wire-frames
 
 
-<a href="https://imgur.com/Pn1BCdg"><img src="https://i.imgur.com/uFVWhNy.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/Pn1BCdg"><img src="https://i.imgur.com/Pn1BCdg.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Pn1BCdg"><img src="https://i.imgur.com/7OzoTSp.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Pn1BCdg"><img src="https://i.imgur.com/dBTnw7y.png" title="source: imgur.com" /></a>
 
 
 ## License
