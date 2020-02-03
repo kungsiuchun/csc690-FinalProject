@@ -1,25 +1,37 @@
 # csc690-FinalProject
 
-* TravalApp is an application for iOS.
-* It gives user recommended top travel spots in town.
-* This app is using the [FourSqaure API](https://developer.foursquare.com).
+* TravelGo! is an iOS application for looking up recomended spots in a city or country.
+* This app is using the [FourSquare API](https://developer.foursquare.com).
+
+## Team Members
+
+- SiuChun Kung
+
+- KaHo Lee
+
+- JiaNan Mai
 
 ## User Stories
 
-The following **must-have** functionalities:
+The following **Must-have** functionalities:
 
-* [ ] User can view the top recommendation places in town on the tableview list. 
-* [ ] User can view the top recommendation places in town on the mapview. 
-* [ ] User can view each spot location address on the detailview. 
-* [ ] User can view each spot photo on the detailview. 
-* [ ] User can view each spot tips on the detailview. 
+* [x] User can view the top recommendation of places in town on the tableview list. 
+* [x] User can view the top recommendation of places in town on the mapview. 
+* [x] User can view each spot location address on the detailview. 
+* [x] User can view each spot photo on the detailview. 
+* [x] User can view each spot tips on the detailview.
+* [x] User can search for any place(e.g. city or country) and fetch the list
 
-The following **Nice-to-have** features:
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
+The following **Nice-to-have** user stories are implemented:
+* [x] User can view the map with marked pins
+* [x] User can get the temperature of the current city
+* [x] User can use GPS to get the route to the desired spot
+* [x] User can add spot to the bookmark
+
+## Loading project from the terminal
+To run the project, go to the csc690-finalproject folder and type the following: pod install 
+
+Then open csc690-TravelApp.xcworkspace
 
 ## Basic wire-frames
 
